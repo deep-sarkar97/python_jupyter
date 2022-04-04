@@ -5,4 +5,3 @@ Exploring the following libraries in Jupyter Notebook.
 - Numpy
 - Pandas
 - Matplotlib
-## Features
